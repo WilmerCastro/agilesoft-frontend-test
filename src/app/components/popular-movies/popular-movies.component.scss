@@ -1,0 +1,17 @@
+img {
+  width: 100%;
+  height: auto;
+  max-height: 100%;
+  border-radius: 7px;
+}
+.line-clamp-5 {
+  display: -webkit-box;
+  -webkit-line-clamp: 5;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.popular-movie {
+  padding: 15px;
+  height: 375px;
+}
